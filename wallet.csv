@@ -1,22 +1,35 @@
-"BCFF11","FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII BTG PACTUAL FUNDO DE FUNDOS","11.026.627/0001-38",,"FII","BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM","59.281.253/0001-23","Brasil",0
-"GRND3","GRENDENE S.A.","89.850.341/0001-60","ON","AÇÃO","-","-","Brasil",6
-"WEGE3","WEG S.A.","84.429.695/0001-11","ON","AÇÃO","-","-","Brasil",10
-"BIDI4","BANCO INTER S.A.","00.416.968/0001-01","PN","AÇÃO","-","-","Brasil",0
-"ITUB3","ITAU UNIBANCO HOLDING S.A.","60.872.504/0001-23","ON","AÇÃO","-","-","Brasil",9
-"FLRY3","FLEURY S.A.","60.840.055/0001-31","ON","AÇÃO","-","-","Brasil",8
-"EGIE3","ENGIE BRASIL ENERGIA S.A.","02.474.103/0001-19","ON","AÇÃO","-","-","Brasil",10
-"HGLG11","CSHG LOGÍSTICA - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII","11.728.688/0001-47",,"FII","CREDIT SUISSE HEDGING-GRIFFO CORRETORA DE VALORES S.A.","61.809.182/0001-30","Brasil",10
-"KNRI11","KINEA RENDA IMOBILIÁRIA - FII","12.005.956/0001-65",,"FII","INTRAG DTVM LTDA.","62.418.140/0001-31","Brasil",10
-"HGRE11","CSHG REAL ESTATE - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII","09.072.017/0001-29",,"FII","CREDIT SUISSE HEDGING-GRIFFO CORRETORA DE VALORES S.A.","61.809.182/0001-30","Brasil",10
-"HGBS11","HEDGE BRASIL SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO","08.431.747/0001-06",,"FII","HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.","07.253.654/0001-76","Brasil",8
-"ABEV3","AMBEV S/A","07.526.557/0001-00","ON","AÇÃO","-","-","Brasil",8
-"ODPV3","ODONTOPREV S.A.","58.119.199/0001-51","ON","AÇÃO","-","-","Brasil",6
-"MGLU3","MAGAZINE LUIZA S.A.","47.960.950/0001-21","ON","AÇÃO","-","-","Brasil",0
-"RADL3","RAIA DROGASIL S.A.","61.585.865/0001-51","ON","AÇÃO","-","-","Brasil",7
-"BTCBRL","BITCOIN",,,"CRIPTO",,,"Brasil",1
-"ETHBRL","ETHEREUM",,,"CRIPTO",,,"Brasil",1
-"XPBR31","XP INC.","35.306.280/0001-45",,"BDR",,,"Brasil",0
-"ENBR3",,,,"AÇÃO",,,"Brasil",
-"IVVB11",,,,"ETF",,,"Brasil",
-"AAPL34",,,,"BDR",,,"Brasil",
-"XPML11",,,,"FII",,,"Brasil",
+,"T",,,"RENTABILIDADE",,,,"PROVENTOS",,,,"INDICADORES",,,,"PAGAMENTOS DE PROVENTOS",,,,,"INFORMAÇÕES DOS ATIVOS EM CARTEIRA",,,,
+,0.0989190676477052,,,6545.855943414601,,,,"Considerar",,true,,"ECONOMIA",,,,"< Todos >","Data","MAI",2021,,"Cotação","Variação (%)","< Todos >","Qtde.","PM"
+,"Total",66225.2099745434,,"R+P+O",0.06113979611209274,4045.855943414601,,"AÇÃO",0.5697128339364077,3700,,,"CDI","+10,65%",,501,,,,,76.85,0,"AAPL34",100,75
+,,,,"R+P",0.09891906764770524,6545.855943414601,,"FII",0.4302871660635923,2794.5,,,"SELIC","+10,75%",,,,,,,13.32,0,"ABEV3",100,15
+,"Custo",66173.8540311288,,"R",0.0007760760524911033,51.355943414600915,,"ETF",0,0,,"ÍNDICES/BOLSAS",,,,"Ativo","Tipo","Dt Pgto","Total",,203221.3446,,"BTCBRL",0.02187317,260855.52547126458
+,,,,,,,,"BDR",0,0,,,"IBOV",109927.62,,"ODPV3","D",2021-05-05 00:00:00,384,,13268.669600000001,,"ETHBRL",0.07688148,17469.965160094474
+,"AÇÃO",,,"STOCK",,,,"STOCK",0,0,,,"IFIX",2704.57,,"HGBS11","R",2021-05-15 00:00:00,117,,162.01,0,"HGBS11",50,170
+,0.30255999999999994,,,0,,,,"REIT",0,0,,".DJI","DOW 30",32945.24,,,,,,,160.8,0,"HGLG11",100,150
+,"Total",12582,,"Total",0,,,"ETF-US",0,0,,".INX","S&P 500",4173.11,,,,,,,130.5,0,"KNRI11",125,125
+,"Custo",12500,,"Custo",0,,,"ADR",0,0,,".IXIC","NASDAQ",12581.22,,,,,,,11.69,0,"ODPV3",150,15
+,"Resultado",82,,"Resultado",0,,,"Resultado",1,6494.5,,"CÂMBIO",,,,,,,,,21.95,0,"RADL3",150,25
+,,,,,,,,,,,,"usdbrl","DOLAR",5.1229,,,,,,,31.02,0,"WEGE3",200,25
+,"FII",,,"REIT",,,,"OPERAÇÕES",,,,"EURBRL","EURO",5.607577569,,,,,,,,,,,
+,0.10638977635782743,,,0,,,,"Considerar",,false,,"GBPBRL","LIBRA",6.666071167,,,,,,,,,,,
+,"Total",40493,,"Total",0,,,"AÇÃO",2,-5000,,"CRIPTOMOEDAS",,,,,,,,,,,,,
+,"Custo",39125,,"Custo",0,,,"FII",-1,2500,,"BTCUSD","BTC",39669.200000000004,,,,,,,,,,,
+,"Resultado",1368,,"Resultado",0,,,"ETF",0,0,,"BTCBRL",,203221.3446,,,,,,,,,,,
+,,,,,,,,"BDR",0,0,,"ETHUSD","ETH",2590.07,,,,,,,,,,,
+,"ETF",,,"ETF-US",,,,"STOCK",0,0,,"ETHBRL",,13268.669600000001,,,,,,,,,,,
+,0,,,0,,,,"REIT",0,0,,,"XRP",,,,,,,,,,,,
+,"Total",0,,"Total",0,,,"ETF-US",0,0,,,,,,,,,,,,,,,
+,"Custo",0,,"Custo",0,,,"ADR",0,0,,,"BCH",,,,,,,,,,,,
+,"Resultado",0,,"Resultado",0,,,"Resultado",1,-2500,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,"USDT",,,,,,,,,,,,
+,"BDR",,,"ADR",,,,"CRIPTO",,,,,,,,,,,,,,,,,
+,0.024666666666666615,,,0,,,,-0.22466688196291196,,,,,"LINK",,,,,,,,,,,,
+,"Total",7684.999999999999,,"Total",0,,,"Total",5465.209974543391,,,,,,,,,,,,,,,,
+,"Custo",7500,,"Custo",0,,,"Custo",7048.854031128801,,,,"LTC",,,,,,,,,,,,
+,"Resultado",184.9999999999991,,"Resultado",0,,,"Resultado",-1583.64405658541,,,,,,,,,,,,,,,,
+,"RESULTADO BR",,,"RESULTADO USA",,,,,,,,,,,,,,,,,,,,,
+,1450,,,0,,,,,,,,,,,,,,,,,,,,,
+,"AÇÃO",82,,"STOCK",0,,,,,,,,,,,,,,,,,,,,
+,"FII",1368,,"REIT",0,,,,,,,,,,,,,,,,,,,,
+,"ETF",0,,"ETF-US",0,,,,,,,,,,,,,,,,,,,,
+,"BDR",184.9999999999991,,"ADR",0,,,,,,,,,,,,,,,,,,,,
